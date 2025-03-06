@@ -1,7 +1,10 @@
 name: math_tools_by_asadbek
 description: "A new Flutter package for learn how to create flutter package. and I am going to create useful package"
 version: 0.0.1
-homepage:
+homepage: https://github.com/Asadbekdev24/math_tools_by_asadbek
+repository: https://github.com/Asadbekdev24/math_tools_by_asadbek
+issue_tracker: https://github.com/Asadbekdev24/math_tools_by_asadbek/isseus
+
 
 environment:
   sdk: ^3.7.0
